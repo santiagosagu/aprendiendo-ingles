@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "palabra": "test 1",
+      "oracionIngles": "Is my Test",
+      "traduccion": "prueba",
+      "traduccionOracion": "esta es mi prueba"
+    },
+    {
+      "id": 2,
+      "palabra": "test 2",
+      "oracionIngles": "Is my Test",
+      "traduccion": "prueba",
+      "traduccionOracion": "esta es mi prueba"
+    },
+    {
+      "id": 3,
+      "palabra": "test 3",
+      "oracionIngles": "Is my Test",
+      "traduccion": "prueba",
+      "traduccionOracion": "esta es mi prueba"
+    },
+    {
+      "id": 4,
+      "palabra": "test 4",
+      "oracionIngles": "Is my Test",
+      "traduccion": "prueba",
+      "traduccionOracion": "esta es mi prueba"
+    },
+    {
+      "id": 5,
+      "palabra": "test 5",
+      "oracionIngles": "Is my Test",
+      "traduccion": "prueba",
+      "traduccionOracion": "esta es mi prueba"
+    },
+    {
+      "id": 6,
+      "palabra": "test 6",
+      "oracionIngles": "Is my Test",
+      "traduccion": "prueba",
+      "traduccionOracion": "esta es mi prueba"
+    },
+    {
+      "id": 7,
+      "palabra": "test 7",
+      "oracionIngles": "Is my Test",
+      "traduccion": "prueba",
+      "traduccionOracion": "esta es mi prueba"
+    }
+  ]
+}
