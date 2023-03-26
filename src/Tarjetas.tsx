@@ -90,7 +90,7 @@ const Tarjetas = ({ mode }: IProps) => {
           key={index}
           className={`${
             mode ? "bg-slate-200" : "bg-slate-700"
-          } p-4 border sm:w-2/5 md:w-72  rounded-xl mt-4 w-full drop-shadow-xl hover:animate-pulse cursor-pointer ${
+          } p-4 border sm:w-2/5 md:w-72  rounded-xl mt-4 w-full drop-shadow-xl cursor-pointer ${
             rotation.number === tarjeta.id && "green"
           }`}
           onClick={() => handleClick(tarjeta.id)}
