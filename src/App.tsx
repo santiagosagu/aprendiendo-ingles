@@ -22,7 +22,9 @@ function App() {
   return (
     <Firebase>
       <div
-        className={`${mode ? "bg-slate-700" : "bg-slate-200"} h-screen w-full`}
+        className={`${
+          mode ? "bg-slate-700" : "bg-slate-200"
+        }  h-full md:h-screen w-full pb-4`}
       >
         <h1
           className={`${
